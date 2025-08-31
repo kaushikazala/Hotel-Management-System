@@ -1,0 +1,38 @@
+[
+  {
+    "id": "jr-001",
+    "name": "Junior Suite",
+    "price": 120,
+    "beds": 1,
+    "guests": 2,
+    "size": 28,
+    "amenities": ["WiFi","Breakfast","AC","Pool"],
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=1400&q=60",
+    "category": "suite"
+  },
+  {
+    "id": "dlx-002",
+    "name": "Deluxe King",
+    "price": 180,
+    "beds": 1,
+    "guests": 3,
+    "size": 34,
+    "amenities": ["WiFi","Breakfast","Gym","TV"],
+    "rating": 4.7,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuxmMDldAgoE-iYrIK3Xo6TvPTHkJP--ni9Q&s",
+    "category": "deluxe"
+  },
+  {
+    "id": "fam-003",
+    "name": "Family Room",
+    "price": 220,
+    "beds": 2,
+    "guests": 5,
+    "size": 45,
+    "amenities": ["WiFi","Kitchenette","TV","Parking"],
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1400&q=60",
+    "category": "family"
+  }
+]
